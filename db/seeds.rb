@@ -1,7 +1,8 @@
-Character.destroy_all
+Guess.destroy_all
 Score.destroy_all
 Game.destroy_all
-Guess.destroy_all
+Character.destroy_all
+
 
 characters = [
   {
